@@ -31,8 +31,8 @@ NOW just copy and PASTE 🥵
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/cogumellumdao/Ping-Network-BOT.git
-cd Ping-Network-BOT
+git clone https://github.com/cogumellumdao/COGUPING-NETWORK.git
+cd COGUPING-NETWORK
 ```
 
 2. Install dependencies:
@@ -41,8 +41,12 @@ cd Ping-Network-BOT
 npm install axios ws uuid user-agents dotenv blessed
 ```
 3. OPEN your browser where you have the extension installed
-Right click on the EXTENSION and look for "INSPECT POP-UP"
-Now click on "APPLICATION" then on Extesion storage, look for "LOCAL", Now click on "persist:auth" and just below you will have your User_id and Device_ID, copy and paste them into the .env file in the BOT folder
+Right click on the **EXTENSION** and look for "**INSPECT POP-UP**"
+![image](https://github.com/user-attachments/assets/990ab1f9-bd4b-43f5-9ef3-fa5a9eb6381b)
+
+Now click on "**APPLICATION**" then on Extesion storage, look for "**LOCAL**", Now click on "**persist:auth**" and just below you will have your **User_id** and **Device_ID**, copy and paste them into the .env file in the BOT folder
+![image](https://github.com/user-attachments/assets/b3a52868-766f-4ad5-acf3-0be66fa4228a)
+
 
 ## Usage
 
