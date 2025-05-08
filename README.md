@@ -18,7 +18,7 @@ This bot automates interactions with the Ping Network testnet, facilitating WebS
 - A user ID for Ping Network (set in .env file)
 
 ## Register NOW : https://bit.ly/3ELpIWB
-Use REF: IALANP .. to encourage more content like this!!
+Use REF: **IALANP** .. to encourage more content like this!!
 
 ## Installation
 
